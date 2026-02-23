@@ -5,8 +5,8 @@
 */
 @font-face {
 	font-family: cartflows-logo-icon;
-	src: url("/wp-content/plugins/cartflows/admin-core/assets/fonts/icons/cartflows-logo-icon.eot?kxnn1n");
-	src: url("/wp-content/plugins/cartflows/admin-core/assets/fonts/icons/cartflows-logo-icon.eot?kxnn1n#iefix") format( "embedded-opentype" ), url("/wp-content/plugins/cartflows/admin-core/assets/fonts/icons/cartflows-logo-icon.ttf?kxnn1n") format( "truetype" ), url("/wp-content/plugins/cartflows/admin-core/assets/fonts/icons/cartflows-logo-icon.woff?kxnn1n") format( "woff" ), url("/wp-content/plugins/cartflows/admin-core/assets/fonts/icons/cartflows-logo-icon.svg?kxnn1n#cartflows-logo-icon") format( "svg" );
+	src: url("https://darrelfrasier-maker.github.io/wavvy/wp-content/plugins/cartflows/admin-core/assets/fonts/icons/cartflows-logo-icon.eot?kxnn1n");
+	src: url("https://darrelfrasier-maker.github.io/wavvy/wp-content/plugins/cartflows/admin-core/assets/fonts/icons/cartflows-logo-icon.eot?kxnn1n#iefix") format( "embedded-opentype" ), url("https://darrelfrasier-maker.github.io/wavvy/wp-content/plugins/cartflows/admin-core/assets/fonts/icons/cartflows-logo-icon.ttf?kxnn1n") format( "truetype" ), url("https://darrelfrasier-maker.github.io/wavvy/wp-content/plugins/cartflows/admin-core/assets/fonts/icons/cartflows-logo-icon.woff?kxnn1n") format( "woff" ), url("https://darrelfrasier-maker.github.io/wavvy/wp-content/plugins/cartflows/admin-core/assets/fonts/icons/cartflows-logo-icon.svg?kxnn1n#cartflows-logo-icon") format( "svg" );
 	font-weight: 400;
 	font-style: normal;
 }

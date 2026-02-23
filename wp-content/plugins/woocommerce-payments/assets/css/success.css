@@ -125,7 +125,7 @@
 	display: inline-block;
 	width: 1.2em;
 	height: 1.2em;
-	mask-image: url('/wp-content/plugins/woocommerce-payments/assets/images/icons/copy.svg');
+	mask-image: url('https://darrelfrasier-maker.github.io/wavvy/wp-content/plugins/woocommerce-payments/assets/images/icons/copy.svg');
 	mask-size: contain;
 	mask-repeat: no-repeat;
 	mask-position: center;
@@ -135,7 +135,7 @@
 }
 
 #wc-payment-gateway-multibanco-instructions-container .copied i.copy-icon {
-	mask-image: url('/wp-content/plugins/woocommerce-payments/assets/images/icons/check-green.svg');
+	mask-image: url('https://darrelfrasier-maker.github.io/wavvy/wp-content/plugins/woocommerce-payments/assets/images/icons/check-green.svg');
 }
 
 #wc-payment-gateway-multibanco-instructions-container .badge {

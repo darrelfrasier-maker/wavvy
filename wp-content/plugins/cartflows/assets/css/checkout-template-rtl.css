@@ -2611,7 +2611,7 @@ body.cartflows_step-template .select2-container--default .select2-search--dropdo
 	transform: scale( 0.92 );
 }
 .wcf-embed-checkout-form.wcf-embed-checkout-form-modern-checkout .woocommerce table.shop_table .blockUI.blockOverlay::before {
-	background: url("/wp-content/plugins/cartflows/assets/images/order-review-skeleton.svg") right top;
+	background: url("https://darrelfrasier-maker.github.io/wavvy/wp-content/plugins/cartflows/assets/images/order-review-skeleton.svg") right top;
 }
 
 /* Payment loader */
@@ -2622,7 +2622,7 @@ body.cartflows_step-template .select2-container--default .select2-search--dropdo
 }
 
 .wcf-embed-checkout-form.wcf-embed-checkout-form-modern-checkout .woocommerce-checkout-payment .blockUI.blockOverlay::before {
-	background: url("/wp-content/plugins/cartflows/assets/images/cartflows-payment-section-loader.svg") right top;
+	background: url("https://darrelfrasier-maker.github.io/wavvy/wp-content/plugins/cartflows/assets/images/cartflows-payment-section-loader.svg") right top;
 	right: -5px;
 }
 /* Payment loader */
@@ -3196,7 +3196,7 @@ body.cartflows-instant-checkout .select2-container--default .select2-results__op
 	transform: scale( 0.92 );
 }
 .wcf-embed-checkout-form.wcf-embed-checkout-form-instant-checkout .woocommerce table.shop_table .blockUI.blockOverlay::before {
-	background: url("/wp-content/plugins/cartflows/assets/images/order-review-skeleton.svg") right top;
+	background: url("https://darrelfrasier-maker.github.io/wavvy/wp-content/plugins/cartflows/assets/images/order-review-skeleton.svg") right top;
 }
 
 /* Payment loader */
@@ -3207,7 +3207,7 @@ body.cartflows-instant-checkout .select2-container--default .select2-results__op
 }
 
 .wcf-embed-checkout-form.wcf-embed-checkout-form-instant-checkout .woocommerce-checkout-payment .blockUI.blockOverlay::before {
-	background: url("/wp-content/plugins/cartflows/assets/images/cartflows-payment-section-loader.svg") right top;
+	background: url("https://darrelfrasier-maker.github.io/wavvy/wp-content/plugins/cartflows/assets/images/cartflows-payment-section-loader.svg") right top;
 	right: -5px;
 }
 /* Payment loader */
