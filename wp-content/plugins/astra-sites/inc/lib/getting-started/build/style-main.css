@@ -3360,4 +3360,822 @@ video:where(.getting-started-style,.getting-started-style *) {
     justify-content: space-between;
   }
 
-  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:ju
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:justify-around) {
+    justify-content: space-around;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:justify-evenly) {
+    justify-content: space-evenly;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:justify-stretch) {
+    justify-content: stretch;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:gap-2) {
+    gap: 0.5rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:gap-4) {
+    gap: 1rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:gap-5) {
+    gap: 1.25rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:gap-6) {
+    gap: 1.5rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:gap-8) {
+    gap: 2rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:gap-x-2) {
+    column-gap: 0.5rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:gap-x-4) {
+    column-gap: 1rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:gap-x-5) {
+    column-gap: 1.25rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:gap-x-6) {
+    column-gap: 1.5rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:gap-x-8) {
+    column-gap: 2rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:gap-y-2) {
+    row-gap: 0.5rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:gap-y-4) {
+    row-gap: 1rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:gap-y-5) {
+    row-gap: 1.25rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:gap-y-6) {
+    row-gap: 1.5rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:gap-y-8) {
+    row-gap: 2rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:space-x-1 > :not([hidden]) ~ :not([hidden])) {
+    --tw-space-x-reverse: 0;
+    margin-right: calc(0.25rem * var(--tw-space-x-reverse));
+    margin-left: calc(0.25rem * calc(1 - var(--tw-space-x-reverse)));
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:self-start) {
+    align-self: flex-start;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:self-end) {
+    align-self: flex-end;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:self-center) {
+    align-self: center;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:self-stretch) {
+    align-self: stretch;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:self-baseline) {
+    align-self: baseline;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:justify-self-auto) {
+    justify-self: auto;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:justify-self-start) {
+    justify-self: start;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:justify-self-end) {
+    justify-self: end;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:justify-self-center) {
+    justify-self: center;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:justify-self-stretch) {
+    justify-self: stretch;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.md\:py-10) {
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+  }
+}@media (min-width: 1024px) {
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:order-1) {
+    order: 1;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:order-10) {
+    order: 10;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:order-11) {
+    order: 11;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:order-12) {
+    order: 12;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:order-2) {
+    order: 2;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:order-3) {
+    order: 3;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:order-4) {
+    order: 4;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:order-5) {
+    order: 5;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:order-6) {
+    order: 6;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:order-7) {
+    order: 7;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:order-8) {
+    order: 8;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:order-9) {
+    order: 9;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:order-first) {
+    order: -9999;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:order-last) {
+    order: 9999;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:order-none) {
+    order: 0;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:col-span-1) {
+    grid-column: span 1 / span 1;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:col-span-10) {
+    grid-column: span 10 / span 10;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:col-span-11) {
+    grid-column: span 11 / span 11;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:col-span-12) {
+    grid-column: span 12 / span 12;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:col-span-2) {
+    grid-column: span 2 / span 2;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:col-span-3) {
+    grid-column: span 3 / span 3;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:col-span-4) {
+    grid-column: span 4 / span 4;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:col-span-5) {
+    grid-column: span 5 / span 5;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:col-span-6) {
+    grid-column: span 6 / span 6;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:col-span-7) {
+    grid-column: span 7 / span 7;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:col-span-8) {
+    grid-column: span 8 / span 8;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:col-span-9) {
+    grid-column: span 9 / span 9;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:col-start-1) {
+    grid-column-start: 1;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:col-start-10) {
+    grid-column-start: 10;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:col-start-11) {
+    grid-column-start: 11;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:col-start-12) {
+    grid-column-start: 12;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:col-start-2) {
+    grid-column-start: 2;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:col-start-3) {
+    grid-column-start: 3;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:col-start-4) {
+    grid-column-start: 4;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:col-start-5) {
+    grid-column-start: 5;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:col-start-6) {
+    grid-column-start: 6;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:col-start-7) {
+    grid-column-start: 7;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:col-start-8) {
+    grid-column-start: 8;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:col-start-9) {
+    grid-column-start: 9;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:w-1\/10) {
+    width: 10%;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:w-1\/11) {
+    width: 9.0909091%;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:w-1\/12) {
+    width: 8.3333333%;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:w-1\/2) {
+    width: 50%;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:w-1\/3) {
+    width: 33.333333%;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:w-1\/4) {
+    width: 25%;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:w-1\/5) {
+    width: 20%;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:w-1\/6) {
+    width: 16.666667%;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:w-1\/7) {
+    width: 14.2857143%;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:w-1\/8) {
+    width: 12.5%;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:w-1\/9) {
+    width: 11.1111111%;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:w-\[47\.5rem\]) {
+    width: 47.5rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:w-full) {
+    width: 100%;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:shrink) {
+    flex-shrink: 1;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:shrink-0) {
+    flex-shrink: 0;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:grow) {
+    flex-grow: 1;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:grow-0) {
+    flex-grow: 0;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:grid-flow-row) {
+    grid-auto-flow: row;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:grid-flow-col) {
+    grid-auto-flow: column;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:grid-flow-row-dense) {
+    grid-auto-flow: row dense;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:grid-flow-col-dense) {
+    grid-auto-flow: column dense;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:grid-cols-1) {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:grid-cols-10) {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:grid-cols-11) {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:grid-cols-12) {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:grid-cols-2) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:grid-cols-3) {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:grid-cols-4) {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:grid-cols-5) {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:grid-cols-6) {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:grid-cols-7) {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:grid-cols-8) {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:grid-cols-9) {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:flex-row) {
+    flex-direction: row;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:flex-row-reverse) {
+    flex-direction: row-reverse;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:flex-col) {
+    flex-direction: column;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:flex-col-reverse) {
+    flex-direction: column-reverse;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:flex-wrap) {
+    flex-wrap: wrap;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:flex-wrap-reverse) {
+    flex-wrap: wrap-reverse;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:flex-nowrap) {
+    flex-wrap: nowrap;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:items-start) {
+    align-items: flex-start;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:items-end) {
+    align-items: flex-end;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:items-center) {
+    align-items: center;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:items-baseline) {
+    align-items: baseline;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:items-stretch) {
+    align-items: stretch;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:justify-normal) {
+    justify-content: normal;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:justify-start) {
+    justify-content: flex-start;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:justify-end) {
+    justify-content: flex-end;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:justify-center) {
+    justify-content: center;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:justify-between) {
+    justify-content: space-between;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:justify-around) {
+    justify-content: space-around;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:justify-evenly) {
+    justify-content: space-evenly;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:justify-stretch) {
+    justify-content: stretch;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:gap-2) {
+    gap: 0.5rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:gap-4) {
+    gap: 1rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:gap-5) {
+    gap: 1.25rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:gap-6) {
+    gap: 1.5rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:gap-8) {
+    gap: 2rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:gap-x-2) {
+    column-gap: 0.5rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:gap-x-4) {
+    column-gap: 1rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:gap-x-5) {
+    column-gap: 1.25rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:gap-x-6) {
+    column-gap: 1.5rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:gap-x-8) {
+    column-gap: 2rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:gap-y-2) {
+    row-gap: 0.5rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:gap-y-4) {
+    row-gap: 1rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:gap-y-5) {
+    row-gap: 1.25rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:gap-y-6) {
+    row-gap: 1.5rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:gap-y-8) {
+    row-gap: 2rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:self-start) {
+    align-self: flex-start;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:self-end) {
+    align-self: flex-end;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:self-center) {
+    align-self: center;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:self-stretch) {
+    align-self: stretch;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:self-baseline) {
+    align-self: baseline;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:justify-self-auto) {
+    justify-self: auto;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:justify-self-start) {
+    justify-self: start;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:justify-self-end) {
+    justify-self: end;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:justify-self-center) {
+    justify-self: center;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:justify-self-stretch) {
+    justify-self: stretch;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.lg\:px-0) {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.rtl\:right-1:where([dir="rtl"], [dir="rtl"] *)) {
+  right: 0.25rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.rtl\:right-2\/4:where([dir="rtl"], [dir="rtl"] *)) {
+  right: 50%;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.rtl\:before\:right-2\/4:where([dir="rtl"], [dir="rtl"] *))::before {
+  content: var(--tw-content);
+  right: 50%;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.group\/switch:focus-within .rtl\:group-focus-within\/switch\:right-0:where([dir="rtl"], [dir="rtl"] *)) {
+  right: 0px;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.group\/switch:focus-within .rtl\:group-focus-within\/switch\:right-0\.5:where([dir="rtl"], [dir="rtl"] *)) {
+  right: 0.125rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.group\/switch:hover .rtl\:group-hover\/switch\:right-0:where([dir="rtl"], [dir="rtl"] *)) {
+  right: 0px;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.group\/switch:hover .rtl\:group-hover\/switch\:right-0\.5:where([dir="rtl"], [dir="rtl"] *)) {
+  right: 0.125rem;
+}@media (prefers-color-scheme: dark) {
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.dark\:bg-gray-700) {
+    --tw-bg-opacity: 1;
+    background-color: rgb(55 65 81 / var(--tw-bg-opacity));
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.dark\:text-gray-600) {
+    --tw-text-opacity: 1;
+    color: rgb(75 85 99 / var(--tw-text-opacity));
+  }
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\:has\(\[aria-expanded\=\'true\'\]\)\]\:border-border-strong:has([aria-expanded='true'])) {
+  --tw-border-opacity: 1;
+  border-color: rgb(107 114 128 / var(--tw-border-opacity));
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\:has\(\[aria-expanded\=\'true\'\]\)\]\:shadow-lg:has([aria-expanded='true'])) {
+  --tw-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+  --tw-shadow-colored: 0 10px 15px -3px var(--tw-shadow-color), 0 4px 6px -4px var(--tw-shadow-color);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\:hover\:has\(\:disabled\)\]\:outline-field-border-disabled:hover:has(:disabled)) {
+  outline-color: #F3F4F6;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\:hover\:not\(\:focus\)\:not\(\:disabled\)\]\:outline-border-strong:hover:not(:focus):not(:disabled)) {
+  outline-color: #6B7280;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\:hover\>h3\]\:bg-transparent:hover>h3) {
+  background-color: transparent;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\:hover\>svg\]\:text-border-strong:hover>svg) {
+  --tw-text-opacity: 1;
+  color: rgb(107 114 128 / var(--tw-text-opacity));
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\:is\(\[data-hover\=true\]\)\]\:rounded-none:is([data-hover=true])) {
+  border-radius: 0px;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\:is\(\[data-hover\=true\]\)\]\:bg-brand-background-50:is([data-hover=true])) {
+  --tw-bg-opacity: 1;
+  background-color: rgb(239 246 255 / var(--tw-bg-opacity));
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>\*\:not\(svg\)\]\:m-1>*:not(svg)) {
+  margin: 0.25rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>\*\:not\(svg\)\]\:mx-1>*:not(svg)) {
+  margin-left: 0.25rem;
+  margin-right: 0.25rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>\*\:not\(svg\)\]\:my-0\.5>*:not(svg)) {
+  margin-top: 0.125rem;
+  margin-bottom: 0.125rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>\*\]\:box-border>*) {
+  box-sizing: border-box;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>\*\]\:text-2xl>*) {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>\*\]\:text-base>*) {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>\*\]\:text-lg>*) {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>\*\]\:text-sm>*) {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>\*\]\:text-xl>*) {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>\*\]\:text-xs>*) {
+  font-size: 0.75rem;
+  line-height: 1rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>\*\]\:text-field-color-disabled>*) {
+  --tw-text-opacity: 1;
+  color: rgb(189 193 199 / var(--tw-text-opacity));
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>\*\]\:text-field-helper>*) {
+  --tw-text-opacity: 1;
+  color: rgb(107 114 128 / var(--tw-text-opacity));
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>\*\]\:text-field-label>*) {
+  --tw-text-opacity: 1;
+  color: rgb(17 24 39 / var(--tw-text-opacity));
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>\*\]\:text-support-error>*) {
+  --tw-text-opacity: 1;
+  color: rgb(220 38 38 / var(--tw-text-opacity));
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>\.status-icon\]\:size-5>.status-icon) {
+  width: 1.25rem;
+  height: 1.25rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>\:last-child\]\:m-0>:last-child) {
+  margin: 0px;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>div\]\:flex-grow>div) {
+  flex-grow: 1;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>div\]\:p-0>div) {
+  padding: 0px;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>li\]\:pointer-events-auto>li) {
+  pointer-events: auto;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>p\]\:m-0>p) {
+  margin: 0px;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>p\]\:w-full>p) {
+  width: 100%;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>span\:first-child\]\:shrink-0>span:first-child) {
+  flex-shrink: 0;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>span\]\:flex>span) {
+  display: flex;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>span\]\:items-center>span) {
+  align-items: center;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>svg\]\:m-1>svg) {
+  margin: 0.25rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>svg\]\:m-1\.5>svg) {
+  margin: 0.375rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>svg\]\:block>svg) {
+  display: block;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>svg\]\:hidden>svg) {
+  display: none;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>svg\]\:size-12>svg) {
+  width: 3rem;
+  height: 3rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>svg\]\:size-3>svg) {
+  width: 0.75rem;
+  height: 0.75rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>svg\]\:size-3\.5>svg) {
+  width: 0.875rem;
+  height: 0.875rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>svg\]\:size-4>svg) {
+  width: 1rem;
+  height: 1rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>svg\]\:size-5>svg) {
+  width: 1.25rem;
+  height: 1.25rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>svg\]\:size-6>svg) {
+  width: 1.5rem;
+  height: 1.5rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>svg\]\:size-8>svg) {
+  width: 2rem;
+  height: 2rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>svg\]\:h-3>svg) {
+  height: 0.75rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>svg\]\:h-4>svg) {
+  height: 1rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>svg\]\:h-5>svg) {
+  height: 1.25rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>svg\]\:w-3>svg) {
+  width: 0.75rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>svg\]\:w-4>svg) {
+  width: 1rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>svg\]\:w-5>svg) {
+  width: 1.25rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>svg\]\:shrink-0>svg) {
+  flex-shrink: 0;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\>svg\]\:text-icon-interactive>svg) {
+  --tw-text-opacity: 1;
+  color: rgb(37 99 235 / var(--tw-text-opacity));
+}@media (min-width: 640px) {
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.sm\:\[\&\>svg\]\:h-6>svg) {
+    height: 1.5rem;
+  }
+
+  :is(.getting-started-style,[data-floating-ui-portal]) :is(.sm\:\[\&\>svg\]\:w-6>svg) {
+    width: 1.5rem;
+  }
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\[aria-expanded\=\'true\'\]_\.gs-chevron-right\]\:rotate-90[aria-expanded='true'] .gs-chevron-right) {
+  --tw-rotate: 90deg;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&\[aria-expanded\=\'true\'\]_\.gs-play-video\]\:flex[aria-expanded='true'] .gs-play-video) {
+  display: flex;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&_\*\]\:box-border *) {
+  box-sizing: border-box;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&_\*\]\:text-sm *) {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&_\*\]\:leading-5 *) {
+  line-height: 1.25rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&_\.editor-content\>p\]\:min-h-5 .editor-content>p) {
+  min-height: 1.25rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&_\.editor-content\>p\]\:min-h-6 .editor-content>p) {
+  min-height: 1.5rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&_\.editor-content\>p\]\:min-h-7 .editor-content>p) {
+  min-height: 1.75rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&_\.editor-content\>p\]\:content-center .editor-content>p) {
+  align-content: center;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&_\.editor-content\>p\]\:text-base .editor-content>p) {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&_\.editor-content\>p\]\:text-sm .editor-content>p) {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&_\.editor-content\>p\]\:text-xs .editor-content>p) {
+  font-size: 0.75rem;
+  line-height: 1rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&_\.editor-content\>p\]\:font-normal .editor-content>p) {
+  font-weight: 400;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&_\.pointer-events-none\]\:text-base .pointer-events-none) {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&_\.pointer-events-none\]\:text-sm .pointer-events-none) {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&_\.pointer-events-none\]\:text-xs .pointer-events-none) {
+  font-size: 0.75rem;
+  line-height: 1rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&_\.pointer-events-none\]\:font-normal .pointer-events-none) {
+  font-weight: 400;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&_p\]\:m-0 p) {
+  margin: 0px;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&_p\]\:text-badge-color-disabled p) {
+  --tw-text-opacity: 1;
+  color: rgb(189 193 199 / var(--tw-text-opacity));
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&_svg\]\:size-3 svg) {
+  width: 0.75rem;
+  height: 0.75rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&_svg\]\:size-4 svg) {
+  width: 1rem;
+  height: 1rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&_svg\]\:size-5 svg) {
+  width: 1.25rem;
+  height: 1.25rem;
+}:is(.getting-started-style,[data-floating-ui-portal]) :is(.\[\&_svg\]\:size-6 svg) {
+  width: 1.5rem;
+  height: 1.5rem;
+}
